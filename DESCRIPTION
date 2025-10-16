@@ -1,12 +1,16 @@
 Package: psHarmonize
 Title: Creates a Harmonized Dataset Based on a Set of Instructions
-Version: 0.3.5
-Authors@R: 
-    person(given = "John",
+Version: 0.3.6
+Authors@R: c(person(given = "John",
            family = "Stephen",
            role = c("aut", "cre"),
            email = "John.Stephen@northwestern.edu",
-           comment = c(ORCID = "0000-0001-7309-9193"))
+           comment = c(ORCID = "0000-0001-7309-9193")),
+           person(given = "Maxwell",
+           family = "Mansolf",
+           role = "ctb",
+           email = "maxwell.mansolf@northwestern.edu",
+           comment = c(ORCID = "0000-0001-6861-8657")))
 Description: Functions which facilitate harmonization of data from multiple
     different datasets. Data harmonization involves taking data sources with
     differing values, creating coding instructions to create a harmonized
@@ -27,7 +31,7 @@ Description: Functions which facilitate harmonization of data from multiple
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.3.0
+RoxygenNote: 7.3.3
 Imports: dplyr, glue, magrittr, purrr, RColorBrewer, rlang, rmarkdown,
         stringr, tidyr
 Suggests: testthat (>= 3.0.0), knitr
@@ -37,8 +41,10 @@ Config/testthat/edition: 3
 URL: https://github.com/NUDACC/psHarmonize
 BugReports: https://github.com/NUDACC/psHarmonize/issues
 NeedsCompilation: no
-Packaged: 2025-01-13 22:15:29 UTC; jjs7028
-Author: John Stephen [aut, cre] (<https://orcid.org/0000-0001-7309-9193>)
+Packaged: 2025-10-16 21:33:57 UTC; jjs7028
+Author: John Stephen [aut, cre] (ORCID:
+    <https://orcid.org/0000-0001-7309-9193>),
+  Maxwell Mansolf [ctb] (ORCID: <https://orcid.org/0000-0001-6861-8657>)
 Maintainer: John Stephen <John.Stephen@northwestern.edu>
 Repository: CRAN
-Date/Publication: 2025-01-15 10:40:05 UTC
+Date/Publication: 2025-10-16 21:50:02 UTC

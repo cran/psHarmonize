@@ -1,8 +1,8 @@
-cd61f18dcfd6a7e58c701fe8cf52c1da *DESCRIPTION
+da76c4a06bc965cc770b450231144868 *DESCRIPTION
 a4d26bb5661de2e93976f7c5f16c7662 *LICENSE
 067d22c8e08bcc3f7d2f2bc505352a59 *NAMESPACE
-7b10840e55fd14cf72bb96ed13315a5c *NEWS.md
-f1c788b9b065004be6f32f45978be498 *R/Harmonization_function.R
+30ba29e16dc59d74277f1e0359823721 *NEWS.md
+7a7365d831dfb50e110baa7013a7e819 *R/Harmonization_function.R
 2be13db27332affc52fdc01d2c6962cb *R/code_modify_func.R
 7fef3756f02dc92a428b9c442a96d474 *R/code_modify_func_multi.R
 e4bd212daf2de297391ae94077476874 *R/code_modify_recode.R
@@ -38,10 +38,10 @@ dad1b5869a0e47b59f0721566100616f *inst/Rmd/summary_compare_report.Rmd
 bd2e5172b20b737471cc842afcd6582a *inst/Rmd/summary_report.Rmd
 3af88979feb30f6bfc8789f9a1139365 *inst/doc/Harmonization_sheet.R
 9eea044661d201b51b980f145e7138af *inst/doc/Harmonization_sheet.Rmd
-b7ccabd9ef5f5f7bdc9fe5aea170617a *inst/doc/Harmonization_sheet.html
+f7fc99ca19803377c04a28dcb5cf2758 *inst/doc/Harmonization_sheet.html
 8864dacdf6d078c73b484c03fb4ac138 *inst/doc/psHarmonize.R
 840e75dd6f796603129905a587404f33 *inst/doc/psHarmonize.Rmd
-41772ff8a18bd760e93ba97a31d6c13b *inst/doc/psHarmonize.html
+c5aaa075b00fe63cd7b4b6428667775f *inst/doc/psHarmonize.html
 070a658a46f8644bd92a19e707b95452 *inst/img/summary_output.PNG
 dda5e355643ab73229f8b88e253e705a *man/code_modify_func.Rd
 5e1114ee2f5421ce4205324c50587347 *man/code_modify_func_multi.Rd
